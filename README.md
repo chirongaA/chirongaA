@@ -16,6 +16,8 @@ JS / HTML / CSS/ PHP/ PYTHON/ REACT
 # Example of work
 <img src ="https://github.com/chirongaA/chirongaA/blob/main/InvestInGov.jpg" width= "512">
 
+# Achievements:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/chirongaA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/augustine-chironga/)  
 
 <h2>🚀 Languages and Tools I Use</h2>
