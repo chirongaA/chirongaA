@@ -11,7 +11,7 @@ JS / HTML / CSS/ PHP/ PYTHON/ REACT
 
 - 🔭 I’m currently working on improving InvestInGov 
 - 🌱 I’m currently learning Frameworks, UI and UX design, ML 
-- 📫 How to reach me: [link] (a.chironga52@gmail.com) 
+- 📫 How to reach me: [link] (a.chironga52@gmail.com) or [link] (www.linkedin.com/in/augustinechironga)
 
 ## Example of work
 <img src ="https://github.com/chirongaA/chirongaA/blob/main/InvestInGov.jpg" width= "512">
