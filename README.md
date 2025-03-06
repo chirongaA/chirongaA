@@ -22,7 +22,7 @@ I recently completed a course in Using Generative AI for Software development by
 <img src ="https://github.com/chirongaA/chirongaA/blob/main/Digital%20Sticker_IBM%20Granite%20Models%20for%20Software%20Development.png" width= "192">    <img src ="https://github.com/chirongaA/chirongaA/blob/main/Use%20Generative%20AI%20for%20Software%20Development.png" width= "192">
 
 Reach me through:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/chirongaA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/augustine-chironga/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/chirongaA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]((https://www.linkedin.com/in/augustinechironga))  
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
