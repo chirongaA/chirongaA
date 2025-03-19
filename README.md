@@ -18,7 +18,7 @@ JS / HTML / CSS/ PHP/ PYTHON/ REACT
 
 ## Achievements:
 I recently completed a course in Using Generative AI for Software development by IBMSkillsBuild
-[link] (https://skills.yourlearning.ibm.com/certificate/share/da125c448eewogICJsZWFybmVyQ05VTSIgOiAiNDA3ODIxMlJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTVDODdCNjkwRjJCRSIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp90f8ddf1d74-10)
+[link] (https://drive.google.com/file/d/1wGDkN2-ng_Fq-ZGFrEzx03tjyqEJGd_L/view?usp=drive_link)
 
 <img src ="https://github.com/chirongaA/chirongaA/blob/main/Digital%20Sticker_IBM%20Granite%20Models%20for%20Software%20Development.png" width= "192">    <img src ="https://github.com/chirongaA/chirongaA/blob/main/Use%20Generative%20AI%20for%20Software%20Development.png" width= "192">
 
